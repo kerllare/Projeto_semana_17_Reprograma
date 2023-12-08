@@ -89,7 +89,7 @@ $ import numpy as np
 $ import matplotlib.pyplot as plt
 $ import seaborn as sns
 
-# Executar o comando na parte superior do arquivo em .ipynb para que você possa rodar o projeto localmente no arquivo 'analise_projeto.ipynb'.
+# Executar o comando na parte superior do arquivo em .ipynb para que você possa rodar o projeto localmente no arquivo 'analise_projeto_final.ipynb'.
 $ Run ou Run All
 ```
 <br>
