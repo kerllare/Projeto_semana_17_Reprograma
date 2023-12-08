@@ -1,19 +1,14 @@
-<h1 align="center">
 
-<p align="center">
-<img src= "https://www.pexels.com/pt-br/foto/homem-de-sueter-cinza-sentado-no-sofa-7551662/" width="50%" height="30%"/>
-</p>
-
-<p align="center"><b> Trabalho não remunerado e desigualdade de gênero: uma perspectiva global </b> 🖤🧠 <p>
+<p align="center"><b> Trabalho não remunerado e desigualdade de gênero: uma perspectiva global </b>  <p>
 
 # <br> Projeto Final {Reprograma} - Trabalho não remunerado e desigualdade de gênero: uma perspectiva global
 
-## Este é projeto final do curso de Análise de Dados | Turma On26 da [{Reprograma}](https://www.reprograma.com.br/).
+## Este é o projeto final do curso de Análise de Dados | Turma On26 da [{Reprograma}](https://www.reprograma.com.br/).
 
 <br>
 <br>
 
- Este projeto é uma Análise de dados feita no Jupyter Notebook com visualização no Tableau
+ Este o projeto é uma Análise de dados feita no Jupyter Notebook com visualização no Tableau
 
 
 ## Objetivo
@@ -39,8 +34,6 @@ No estudo sobre igualdade de gênero e desenvolvimento humano, exploraremos um i
 Fonte https://gender-data-hub-2-undesa.hub.arcgis.com/pages/indicators
 
 
-
-
 <br>
 <br>
 
@@ -52,8 +45,6 @@ Fonte https://gender-data-hub-2-undesa.hub.arcgis.com/pages/indicators
 
 <br>
 <br>
-
-
 ## 👩🏾‍💻 Tecnologias e Dependências Utilizadas
 
 <br>
@@ -93,7 +84,7 @@ Link para o site com as bases de dados utilizadas:
 $ git clone https://github.com/kerllare/Projeto_semana_17_Reprograma
 
 # Entrar na pasta do repositório
-$ cd Parksonianos
+$ cd PROJETO_FINAL
 
 # Instalar as bibliotecas
 $ import pandas as pd
@@ -121,12 +112,9 @@ Projeto criado com a orientação e cuidado da Professora [Mariana Rezende](http
 Agradecimento à todas as professoras do curso, à Jani, nossa facilitadora maravilhosa, a Ju, que nos acolheu, todas minhas colegas da On26 e às pessoas que fizeram parte dessa construção e conhecimento em algum momento!🚀
 
 <br>
-<br>
 
-<span align="center">
+<p align="center"> Desenvolvido por <a href="https://www.linkedin.com/in/kerlla-analista-de-dados/" target="_blank">Kerlla - Analista de Dados</a> </p>
 
-
-<p align="center"> Desenvolvido por <a href="https://www.linkedin.com/in/kerlla-analista-de-dados/" target="_blank"><img src=target="_blank"></a> </p>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/84551213/171416454-ab93ab7f-e5a0-4276-81ec-4f5cb79dff31.png" alt="logo da reprograma" border="0" width = "200" /> <p align="center"></p>
