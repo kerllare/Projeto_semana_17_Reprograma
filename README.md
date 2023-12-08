@@ -1,6 +1,3 @@
-
-<p align="center"><b> Trabalho não remunerado e desigualdade de gênero: uma perspectiva global </b>  <p>
-
 # <br> Projeto Final {Reprograma} - Trabalho não remunerado e desigualdade de gênero: uma perspectiva global
 
 ## Este é o projeto final do curso de Análise de Dados | Turma On26 da [{Reprograma}](https://www.reprograma.com.br/).
