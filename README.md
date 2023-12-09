@@ -5,7 +5,7 @@
 <br>
 <br>
 
- Este o projeto é uma Análise de dados feita no Jupyter Notebook com visualização no Tableau
+ Este projeto é uma Análise de dados feita no Jupyter Notebook com visualização no Tableau
 
 
 ## Objetivo
@@ -24,7 +24,7 @@ Definição acordada internacionalmente:
 
 O trabalho de cuidados não remunerado refere-se a atividades relacionadas com cuidados e instrução de crianças, cuidados a familiares e familiares doentes, idosos ou deficientes, ajuda a agregados familiares e familiares adultos não dependentes e viagens relacionadas com estes serviços de cuidados não remunerados"
 
-No estudo sobre igualdade de gênero e desenvolvimento humano, exploraremos um indicador significativo fornecido pela Organização das Nações Unidas (ONU): o número médio de horas despendidas em trabalho doméstico e de cuidados não remunerado. Este indicador, crucial para compreender as dinâmicas de gênero em diferentes regiões, nos permite analisar como as responsabilidades não remuneradas são distribuídas entre os gêneros binários, levando em consideração a idade e a localização geográfica.
+No estudo sobre igualdade de gênero e trabalho não remunerado, exploraremos um indicador significativo fornecido pela Organização das Nações Unidas (ONU): o número médio de horas despendidas em trabalho doméstico e de cuidados não remunerado. Este indicador, crucial para compreender as dinâmicas de gênero em diferentes regiões, nos permite analisar como as responsabilidades não remuneradas são distribuídas entre os gêneros binários, levando em consideração a idade e a localização geográfica.
 
 - DATASET: Número médio de horas despendidas em trabalho doméstico e de cuidados não remunerado, por sexo, idade e localização (renomeado: 'trabalho_nao_remunerado.csv')
 
@@ -34,7 +34,7 @@ Fonte https://gender-data-hub-2-undesa.hub.arcgis.com/pages/indicators
 <br>
 <br>
 
-**[Apresentação do Projeto Final]colocar link aqui
+**[Apresentação do Projeto Final]https://docs.google.com/presentation/d/1Sn_fly_noZY_cjvbw3p3f9iwpRErArK-/edit#slide=id.p2
 
 <br>
 <br>
